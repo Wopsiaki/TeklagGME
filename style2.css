@@ -1,0 +1,52 @@
+@font-face {
+    font-family: temmie;
+    src: url(determination.ttf);
+}
+
+body {
+    background-image:url(Noise.png);
+}
+
+h1 {
+    font-family: temmie;
+    font-size: 48px;
+    text-align: center;
+    color: white;
+}
+h2 {
+    font-family: temmie;
+    font-size: 34px;
+    text-align: center;
+    color: yellow;
+}
+h3 {
+    font-family: temmie;
+    font-size: 20px;
+    text-align: center;
+    color: transparent;
+}
+
+p {
+    font-family: temmie;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+a {
+    font-size: 30px;
+    font-family: temmie;
+    text-align: center;
+    color: transparent;
+    display: block;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+audio {
+    display: block;
+    margin: auto;
+}
